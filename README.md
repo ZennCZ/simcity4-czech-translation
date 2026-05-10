@@ -1,4 +1,4 @@
-# 🇨🇿 SimCity 4 Deluxe — Český překlad
+# 🇨🇿 SimCity 4 Deluxe - Český překlad
 
 > Neoficiální český překlad hry **SimCity 4 Deluxe Edition** pro Steam (macOS i Windows).
 
