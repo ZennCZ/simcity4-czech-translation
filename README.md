@@ -39,7 +39,7 @@
    ```
    ~/Library/Application Support/Steam/steamapps/common/SimCity 4 Deluxe/SimCity™4 Deluxe Edition.app/Contents/GameData/English/
    ```
-3. Spusť hru přes Steam 🎉
+3. Spusť hru přes Steam
 
 ### Windows (Steam)
 
@@ -48,7 +48,7 @@
    ```
    Steam\steamapps\common\SimCity 4 Deluxe\SimCity 4 Deluxe\Locale\English\
    ```
-3. Spusť hru přes Steam 🎉
+3. Spusť hru přes Steam
 
 📖 **Detailní krok-za-krokem návod:** [INSTALLATION.md](INSTALLATION.md)
 
@@ -91,7 +91,7 @@ Našel jsi chybu, divně přeložený text, nebo máš návrh na zlepšení? Ozv
 
 ## 📜 Licence
 
-[MIT](LICENSE) © 2026 Zen
+[MIT](LICENSE) © 2026
 
 Můžeš překlad volně používat, upravovat a šířit. Originální hra © Maxis / Electronic Arts — překlad je neoficiální fanouškovský projekt, není sponzorován ani schválen Maxisem ani EA.
 
@@ -100,5 +100,3 @@ Můžeš překlad volně používat, upravovat a šířit. Originální hra © M
 Překlad vznikl reverse-engineeringem datového formátu **DBPF** (Maxis Database Packed File) a byl vytvořen ve spolupráci s **[Claude AI](https://www.anthropic.com/claude)** od Anthropic. Projekt prošel 27 build iteracemi (v6 → v29) na cestě k 88% pokrytí.
 
 ---
-
-⭐ **Pokud se ti překlad líbí, dej hvězdičku!** Pomůže to ostatním českým hráčům projekt najít.
