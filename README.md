@@ -84,7 +84,7 @@ Překlad budu postupně zlepšovat na základě feedbacku. Nové verze vycházej
 
 Našel jsi chybu, divně přeložený text, nebo máš návrh na zlepšení? Ozvi se!
 
-- 💬 **Discord:** [`@megi9073`](https://discord.com/users/453211849849176094) — pro rychlý chat a feedback
+- 💬 **Discord:** [`zen`](https://discord.com/users/453211849849176094) — pro rychlý chat a feedback
 - 🐛 **GitHub Issues:** [Nahlásit chybu nebo návrh](../../issues) — pro strukturované hlášení (přiloží screenshot, popis kontextu)
 
 ---
@@ -97,11 +97,7 @@ Můžeš překlad volně používat, upravovat a šířit. Originální hra © M
 
 ---
 
-## 🙏 Poděkování
-
 Překlad vznikl reverse-engineeringem datového formátu **DBPF** (Maxis Database Packed File) a byl vytvořen ve spolupráci s **[Claude AI](https://www.anthropic.com/claude)** od Anthropic. Projekt prošel 27 build iteracemi (v6 → v29) na cestě k 88% pokrytí.
-
-Speciální dík všem, kdo poskytnou feedback a pomohou ladit další verze. 🏙️
 
 ---
 
