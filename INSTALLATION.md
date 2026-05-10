@@ -4,7 +4,7 @@ Detailní krok-za-krokem návod pro **macOS** a **Windows** uživatele Steam ver
 
 ---
 
-## 🛡️ Než začneš
+## Než začneš
 
 - ✅ Ujisti se, že máš **SimCity 4 Deluxe Edition** ze Steamu (originální verze hry)
 - ✅ Hra musí být **úplně zavřená** (i Steam launcher)
@@ -12,7 +12,7 @@ Detailní krok-za-krokem návod pro **macOS** a **Windows** uživatele Steam ver
 
 ---
 
-## 🍎 macOS (Steam)
+## macOS (Steam)
 
 ### Krok 1: Stáhni překlad
 
@@ -47,7 +47,7 @@ Spusť **SimCity 4** přes Steam. Hra bude česky! 🎉
 
 ---
 
-## 🪟 Windows (Steam)
+## Windows (Steam)
 
 ### Krok 1: Stáhni překlad
 
