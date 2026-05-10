@@ -80,7 +80,7 @@ Překlad budu postupně zlepšovat na základě feedbacku. Nové verze vycházej
 
 ---
 
-## 💬 Feedback a komunita
+## 💬 Feedback
 
 Našel jsi chybu, divně přeložený text, nebo máš návrh na zlepšení? Ozvi se!
 
